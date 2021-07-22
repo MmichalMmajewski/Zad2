@@ -1,5 +1,6 @@
 
 METODA ENDPOINT DANE_WEJŚCIOWE
+
 GET /api/v1/categories
 GET /api/v1/entries/{entries_id}
 POST /api/v1/categories {"name":"Edukacja wyższa"}
